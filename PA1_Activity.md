@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 The data can be downloaded from the course web site: 
 
-* **Dataset** - [Activity Monitoring data](http://rmarkdown.rstudio.com)
+* **Dataset** - [Activity Monitoring data](https://github.com/connie0701/RepData_PeerAssessment1/blob/master/activity.zip)
 
 The variables included in this dataset are:
 
